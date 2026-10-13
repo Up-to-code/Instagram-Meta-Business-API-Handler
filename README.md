@@ -629,3 +629,7 @@ For API-specific issues, refer to [Meta's Instagram Platform Support](https://de
 ---
 
 **Note**: This handler requires an active Facebook Developer account and Instagram Business account. Ensure you comply with Instagram's Platform Policy and Terms of Service.
+
+## Project links
+
+[Source](https://github.com/Up-to-code/Instagram-Meta-Business-API-Handler) · [Issues](https://github.com/Up-to-code/Instagram-Meta-Business-API-Handler/issues) · [Public project directory](https://github.com/qentrah/.github/blob/main/profile/PROJECTS.md)
